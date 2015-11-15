@@ -1,0 +1,6 @@
+AuthUserFile /data/web/virtuals/19779/virtual/www/domains/jakserodicopywriter.cz/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Nazev tajne casti stranek"
+AuthType Basic
+Require valid-user
+Order deny,allow
